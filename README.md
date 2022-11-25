@@ -1,1 +1,1 @@
-# react-taps-component
+# tabs-component
